@@ -24,7 +24,7 @@
 .wrapper {
   max-width: 1200px;
 
-  margin-top: 4rem;
+  margin-top: 2rem;
   margin-inline: auto;
 
   padding-inline: 2rem;
@@ -62,16 +62,16 @@ body {
 }
 
 h1 {
-  font-size: 1.825rem;
+  font-size: 1.725rem;
   line-height: 1.7;
 }
 
 h2 {
-  font-size: 1.525rem;
+  font-size: 1.625rem;
 }
 
 header p{
-  font-size: 1.125rem;
+  font-size: 1.225rem;
   font-weight: var(--fw-neutral);
 }
 
